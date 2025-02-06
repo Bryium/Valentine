@@ -26,24 +26,22 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `Ever since I knew you, you’ve brought this spark into my life, and I can't stop thinking about you. ✨
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Whenever I talk to you, I realize more and more—you’re the girl I want to spend my life with. Yes, I want you. 💙
       `,
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
-and you make spending time together feel too short.`,
+      content: `There's something about you that pulls me in, makes my heart race, and leaves me craving more of your presence. You make the simplest moments feel magical, and I wouldn’t trade that feeling for anything. 💫`,
       image: "/character/four.png",
     },
     {
       content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+hold your hands, and look into your pretty eyes and of course kiss your lil forehead 💙.`,
       image: "/character/five.png",
     },
     {
